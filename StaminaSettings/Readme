@@ -1,1 +1,36 @@
+Welcome to my Server Settings:
 
+cfggameplay.json.
+
+this is my customized stamina setting for my DayZ Server:
+
+■ Server:  Native Land |  PVP  | Survival | Vanilla| by chilliyTV
+■ 50 Slots
+■ IP: 5.9.77.42:2947
+■ Map: ANASTARA
+
+
+i played a lot with the parameters and i found this setting fits the best for me.
+it has not complete unlimited stamina - it is a good mix from the vanilla settings with a bit extra limits.
+
+ "PlayerData":
+	{
+		"disablePersonalLight": false,                      Disables the omnipresent personal light lighting up objects close to player during night-time	
+		"StaminaData":
+		{
+			"sprintStaminaModifierErc": 0.5,                  Modifies the rate at which the stamina is being consumed during erected sprint	(default 1.0)
+			"sprintStaminaModifierCro": 0.75,                 Modifies the rate at which the stamina is being consumed during crouched sprint	(default 1.0)
+			"staminaWeightLimitThreshold": 7000.0,            This amount of stamina points (divided by 1000) will not count towards stamina weight deduction	 (default 6000.0)
+			"staminaMax": 120.0,                              Maximum stamina (setting to 0 may produce unexpected results)	(default 100.0)
+			"staminaKgToStaminaPercentPenalty": 1.30,         Multiplier used when calculating stamina points deducted from max stamina given the player load	(default 1.75) 
+			"staminaMinCap": 6.0,                             Minimum size of stamina cap (setting to 0 may produce unexpected results)	(default 5.0)
+			"sprintSwimmingStaminaModifier": 1.0,             Modifies the rate at which the stamina is being consumed during fast swimming		(default 1.0)
+			"sprintLadderStaminaModifier": 0.75,              Modifies the rate at which the stamina is being consumed during fast ladder climbing	(default 1.0)
+			"meleeStaminaModifier": 1.0,                      Modifies how much stamina is being consumed when performing heavy melee attacks and evasion		(default 1.0)
+			"obstacleTraversalStaminaModifier": 1.0,          Modifies how much stamina is being consumed when performing jumping, climbing and vaulting	(default 1.0)
+			"holdBreathStaminaModifier": 1.0                  Modifies the rate at which the stamina is being consumed when holding breath	(default 1.0)
+		},
+
+
+Links:
+https://community.bistudio.com/wiki/DayZ:Gameplay_Settings
