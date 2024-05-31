@@ -1,6 +1,6 @@
 Welcome to my Server Settings:
 
-CFGWEATHER.xml
+dayzOffline.anastara\db\cfgweather.xml
 
 this is my customized weather setting for my DayZ Server:
 
@@ -10,7 +10,7 @@ this is my customized weather setting for my DayZ Server:
 ■ Map: ANASTARA
 
 
-i played a lot with the parameters and i found this setting fits the best for me.
+i played a lot with the parameters and i found this setting fits the best for me from the survival perspectivity.
 the weather is rough, cold, wet, sometimes changeable or very sunny with beautiful sunrises and sunsets.
 
 - overcast    (complete range from 0.0 to 1.0)
