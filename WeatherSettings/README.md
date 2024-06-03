@@ -15,9 +15,9 @@ the weather is rough, cold, wet, sometimes changeable or very sunny with beautif
 
 - overcast    (complete range from 0.0 to 1.0)
 - Fog         (complete range 0.0 to 1.0)
-- Rain        (complete range 0.0 to 1.0)       can start raining from 50% overcast
-- Wind        (complete range 0.0 to 1.0)       max. Speed is 50m/s
-- Lightning                                     can start from only 30% overcast und alle 20sec lightning strikes
+- Rain        (complete range 0.0 to 1.0)       can start raining from 60% overcast
+- Wind        (complete range 0.0 to 1.0)       max. Speed is 42m/s
+- Lightning                                     can start from only 30% overcast und alle 25sec lightning strikes
 
 
 Links:
