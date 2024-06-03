@@ -52,7 +52,7 @@
     <wind>
        
         <maxspeed>50</maxspeed>                                <!-- Maximum wind speed (in m/s) -->
-        <params min="0.0" max="1.0" frequency="30" />         <!-- Min and max (relative 0..1) for the wind speed range, frequency of the wind changes -->
+        <params min="0.0" max="1.0" frequency="42" />         <!-- Min and max (relative 0..1) for the wind speed range, frequency of the wind changes -->
     </wind>
 
      <!-- Blitze -->
